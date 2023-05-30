@@ -1,0 +1,10 @@
+{
+    "id": "marketconditiontweaks",
+    "name": "Market Condition Tweaks",
+    "author": "Confer",
+    "utility": "false",
+    "version": "1.0",
+    "description": "Redoes core world market conditions",
+    "gameVersion": "0.96a-RC10",
+	"modPlugin": "data.scripts.MarketConditionTweaks",
+}
